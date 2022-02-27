@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of King Richard the second, who was deposed of his crown, by reason of his not regarding the councell of the sage and wise of his kingdom, but followed the advice of of [sic] wicked and lewd councell, and sought as farre as in him lay, to deprive many good English subjects of their lives and estates, who stood wholly for the good of the commonalty; but at a Parliament holden, his counsellors were all called, whereof some fled, others received condigne punishment according to the law. Published by a Well-wisher to the common-wealth, being worthy the observation of all men in these times of distractions.</title>
+            <author>Well-wisher to the Common-wealth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88129</idno>
+            <idno type="STC">Wing L2002</idno>
+            <idno type="STC">Thomason E155_15</idno>
+            <idno type="STC">ESTC R13683</idno>
+            <idno type="EEBO-CITATION">99859521</idno>
+            <idno type="PROQUEST">99859521</idno>
+            <idno type="VID">156857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156857)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E155[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of King Richard the second, who was deposed of his crown, by reason of his not regarding the councell of the sage and wise of his kingdom, but followed the advice of of [sic] wicked and lewd councell, and sought as farre as in him lay, to deprive many good English subjects of their lives and estates, who stood wholly for the good of the commonalty; but at a Parliament holden, his counsellors were all called, whereof some fled, others received condigne punishment according to the law. Published by a Well-wisher to the common-wealth, being worthy the observation of all men in these times of distractions.</title>
+                  <author>Well-wisher to the Common-wealth.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Tomlinson and T. Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "12 July July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Richard, --  King of England, 1367-1400.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156857:1" rendition="simple:additions"/>
+            <p>THE LIFE AND DEATH OF KING RICHARD THE SECOND, Who Was depoſed of His Crown, by reaſon of His not regarding the Councell of the Sage and Wiſe of His Kingdom, but followed the advice of of wicked and lewd Councell, and ſought as farre as in him lay, to deprive many good Engliſh Subjects of their lives and eſtates, who ſtood wholly for the good of the Commonalty; but at a Parliament holden, His Counſellors were all called, whereof ſome fled, others recei<g ref="char:EOLhyphen"/>ved condigne puniſhment according to the Law.</p>
+            <p>Publiſhed by a Well-wiſher to the Common-wealth, being worthy the obſervation of all men in theſe times of Diſtractions.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Tomlinſon,</hi> and <hi>T. Watſon,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb facs="tcp:156857:2"/>
+            <pb n="2" facs="tcp:156857:2"/>
+            <head>The Life and Death of King <hi>Richard</hi> the ſecond.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>Ichard</hi> the ſecond born at <hi>Burdeaux,</hi> the ſonne of Prince <hi>Edward,</hi> being but eleven yeers old, began His Reign the 21. day of <hi>June</hi> in the yeer of our Lord God 1377. In beauty, bounty and liberality, He farre paſſed all His Progenitors, but was over much given to reſt and quietneſſe, loving, little deeds of Arms, and for that He was young, was moſt ruled by young Councell, and regarded nothing the Councells of the Sage and Wiſe men of the Realm, which thing turned this Land to great trouble, and himſelf to extream miſery, as is by theſe Verſes declared.
+<q>
+                  <l>
+                     <hi>When this King first began to Reign, the Laws neglected were,</hi>
+                     <note place="margin">Vox cla<g ref="char:EOLhyphen"/>mantis, <hi>Joh. Ga<g ref="char:EOLhyphen"/>wer.</hi>
+                     </note>
+                  </l>
+                  <l>Wherefore good Fortune him forſook, and the earth did quake for fear,</l>
+                  <l>The people alſo whom He polled, againſt Him did rebell,</l>
+                  <l>The time doth yet bewail the woes, that Chronicles do tell.</l>
+                  <l>The fooliſh Councell of the Lewd, and young He did receive,</l>
+                  <l>And grave advice of aged heads, He did reject and leave,</l>
+                  <l>And then for greedy thirſt of Coyn, ſome Subjects He accuſed,</l>
+                  <l>To gain their Goods into His Hands, thus He the Realm abuſed.</l>
+               </q>
+            </p>
+            <p>THe Duke of <hi>Gloucester</hi> with other, entred the Tower of <hi>London,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">year </seg>1388</label> and having a little talk with the King, they recited the conſpiracy, whereby they had been endited, and they ſhewed forth alſo the Letters which he had ſent unto the Duke of <hi>Ireland,</hi> that he ſhould aſſemble an Army to their deſtruction, &amp;c. In the end, the King promiſed on the next morning to come to <hi>Weſtminſter,</hi> and there to entreat at large for reformation of all matters.</p>
+            <p>In the morning, the King came to <hi>Weſtminſter,</hi> where after a little talk, the Nobles ſaid, That for His Honour and Commodity of His Kingdom, it was behovefull, That the traiterous whiſperers, flatterers,
+<pb n="4" facs="tcp:156857:3"/>and unprofitable people were removed out of place, and others to be pla<g ref="char:EOLhyphen"/>ced in their rooms.</p>
+            <p>The King, though ſore againſt his minde, when he ſaw how the Lords were bent, and that he wanted power to withſtand them, condeſcended to do what they would have him; and to conclude, the King, at the requeſt of the Lords, commanded the ſuſpected perſons of his Court and Family to be awarded to priſon, to anſwer at the next Parliament; which perſons were, Sir Simon Burghley, Sir William Elmham, Sir Nicholas Dagworth, Sir Iohn Golfar, which was not yet returned out of France: All theſe, with ma y more, were apprehended as evill affected perſons, and enemies to the State.</p>
+            <p>The third day of February the Parliament began at Weſtminſter, which Parliament continued till the 13 of Iune next following, except from the Vigill of Palm-Sunday, untill the Octaves of Eaſter: This Parliament was named, The Parliament that wrought wonders. The Lords came to this Parliament with a ſufficient Army for their own Sureties: The firſt day of this Parliament were atreſted as they ſate in their Places, all the Iuſtices, ex<g ref="char:EOLhyphen"/>cept Sir William Skipwith, and Sir Roger Fultharp, Sir Robert Belknape, Sir Iohn Carey, Sir Iohn Holt, Sir VVilliam Borrow, and Iohn Alecton, the Kings Serjeant at Law; all theſe were ſent to the Tower, and there kept in ſeverall places.</p>
+            <p>The cauſe was, for that where in the laſt Parliament divers Lords were made Governours of the Realm, both by the aſſent of the Parliament, and alſo by the advice and counſell of all the Iuſtices and yet notwithſtanding the ſaid Iuſtices ill Councell holden at Nottingham did the contrary: where<g ref="char:EOLhyphen"/>upon it was now determined, that they ſhould now make anſwer to their doings. Moreover, in the beginning of this Parliament were openly called Robert Vere, Duke of Ireland, Alexander Nevill, Michael de la Pool, Duke of Suffolk, Sir Robert Triſilian, Lord chief Iuſtice of ENGLAND, and Nicholas Brembar, whom the King oft times made Lord Maior of London, againſt the minde of the Citizens, to anſwer before Thomas of Woodſtock, Duke of Gloceſter, Richard Earl of Arun<g ref="char:EOLhyphen"/>dell, Thomas Beauchamp Earl of Warwick, Henry Earl of Darby, and Tho<g ref="char:EOLhyphen"/>mas Earl of Notingham, upon certain Articles of high Treaſon, which theſe Lords did charge them with: And foraſmuch as none of them appeared, it was ordained by the whole aſſent of Parliament, That they ſhould be ba<g ref="char:EOLhyphen"/>niſhed for ever, and their Lands and Goods to be forfeited into the Kings hands, their Lands entailed excepted, which ſhould deſcend to their heirs.</p>
+            <p>The Proceſſe againſt thoſe five Lords, compriſed 38 Articles.</p>
+            <p>King Richard (after the Parliament) diſcharged the old Officers of His Court, and alſo his Conncellors, appointing others at his pleaſure: He took the Seal from Thomas Arundel, Archbiſhop of York, and delivered it to William Micham, Biſhop of Wincheſter, and made him Chancellor: The
+<pb n="5" facs="tcp:156857:3"/>Biſhop of Exceter his Treaſurer, having taken that Office from the Biſhop of Hereford, and Edmund Staford, Keeper of the Privy Seal, and made many new Officers, putting down the old, he removed farre off from the Councell the Duke of Gloceſter, the Earl of Warwick, and other worthy men, and put in their places (in deſpight of his Commons) ſuch as pleaſed him.</p>
+            <p>The King being at Dublin in Ireland, with an Army of men againſt the Iriſh, wondering in all that time he heard no news out of England, the paſ<g ref="char:EOLhyphen"/>ſage was ſo dangerous, the winde being contrary, and Tempeſts ſo great; at the length came a Ship with heavy News, how the Duke of Hereford, and now by the deceaſe of his father, Duke of Lancaſter, was arrived in Eng<g ref="char:EOLhyphen"/>land at Ravenſpurg, beſides VVadlington in York-ſhire.</p>
+            <p>Vpon this News the King, being perſwaded to make haſte over, ſummon<g ref="char:EOLhyphen"/>ed together all the Welſh and Engliſh, to participate of his Fortunes, to meet the Duke of Hereford to Battell.</p>
+            <p>The Duke of Aumraile, Conſtable and chief Governour of the King. Army againſt the Duke, hearing the King was fled, and he left to the mercy of his enemies, ſaid unto the Souldiers, Let us ſhift for our ſelves, my Ma<g ref="char:EOLhyphen"/>ſters, for the King is fled: whereupon the men ran away; Sir Tho<g ref="char:EOLhyphen"/>mas Percy. Steward of the Houſhold, talking with the Conſtable, departed and took their way thorow VVales, but the VVelch-men ſeeing ſuch diſor<g ref="char:EOLhyphen"/>der, refuſed their aſſiſtance.</p>
+            <p>The King being at Conway, now in great diſcomfort, ſent the Duke of Ex<g ref="char:EOLhyphen"/>ceter and Surrey, to Henry Duke of Hereford and Lancaſter, to know what his meaning was, himſelf remaining at Conway in great perplexity, with him the Earl of Salisbury, the Biſhop of Carlile, Sir VVilliam Fercle Knight, in all but ſixteen perſons, then was news brought to the King, how his Conſta<g ref="char:EOLhyphen"/>ble had demeaned him, and likewiſe his Steward, which had cauſed his riches to be brought to Land, and going thorow VVales with it, the VVelch<g ref="char:EOLhyphen"/>men had taken it.</p>
+            <p>Vpon this the King going towards the Duke, ſome that he ſent as embaſſies to treat with the Duke, but he ſtayed ſome of the Kings followers, and im<g ref="char:EOLhyphen"/>priſoned them: So the King, though contrary to his minde, wanting force againſt the Duke to aſſiſt him in his wars, took the advice of ſome of his Biſhops, who advertiſed him of the ſtrength of VVales, and adviſed him to treat a Peace with the Duke, only on policy to regain new ſtrength in Wales.</p>
+            <p>After an agreement and peace made of theſe wars between the Duke and the King, they were both pacified, and promiſed each other to meet at Lon<g ref="char:EOLhyphen"/>don, where, when the King was come to the Caſtle Walls, where he beheld the Duke, with all his Hoſte, of a hundred thouſand men: there came before (that were departed from the Army) the Archbiſhop of Canterbury, Sir Tho<g ref="char:EOLhyphen"/>mas Percy, and the Earl of Rutland, from whom the Duke had taken the Office of Conſtable, more for a colour, then for diſpleaſure, for they bare the Dukes Order, and not the Hart, which was the Kings: The Archbiſhop
+<pb n="6" facs="tcp:156857:4"/>entred firſt, and after others with a great train, they went up to the Dungeon, and then the King came down from the Wals, unto whom they did reverence lowly on their knees; the King took them up, and took the Archbiſhop apart, and they two talked long together; but the Earl of Rutland kept him aloof: They took horſe again, and rode towards the Duke, that now was approach<g ref="char:EOLhyphen"/>ing neer.</p>
+            <p>The King went up again to the Wals lamenting; for when he ſaw the Dukes Hoſte within two Bows ſhoot of the Caſtle, who compaſſed it round about, down to the Sea, the Earl of Northumberland went forth to the Duke, who after long talk, concluded that the Duke ſhould not enter the Caſtle before the King had dined, for he was faſting: ſo the Hoſte returned, and the King was ſet to dinner, with whom ſate his aſſured friends, the Earl of Salisbury, and the Biſhop of Carlile, Sir Stephen Scrope, and Cecile: they ſate long and ate little, for they had no haſte to riſe.</p>
+            <p>After dinner the Duke entered the Caſtle, all armed, his Baſenet excepted; King Richard came down to meet the Duke, who aſſoon as he ſaw the King, fell down on his knees; and coming neer unto him, he kneeled the ſecond time, with his hat in his hand, and the King put off his Hood, and then ſpake firſt fair, Couſen Lancaſter ye are right vvelcome: The Duke bowing lovv down to the ground, anſwered, My Lord, I am come before you ſent for me, the reaſon vvhy I vvill ſhevv you; The common fame among your people is ſuch, That ye have for the ſpace of 20 or 22 yeers, ruled them very rigo<g ref="char:EOLhyphen"/>rouſly; but if it pleaſe our Lord, I vvill help you to govern better: The King anſvvered, Fair Couſen of Lancaſter, ſith it pleaſeth you, it pleaſeth me very vvell.</p>
+            <p>The Duke ſpake as ye have heard to the King, he ſpake alſo to the Biſhop of Carlile, to Sir Stephen Scrope, and to Cecile, but to the Earl of Salisbury he ſpake not, vvhereby the Earl perceived that the Duke hated him deadly.</p>
+            <p>The Duke vvith a high ſharp voyce, bade bring forth the Kings horſes, and then two little Nags, not vvorth forty Franks, vvere brought forth; the King vvas ſet on the one, and the Earl of Salisbury on the other, and then the Duke brought the King from Flint to Cheſter, vvhere he vvas delivered to the Duke of Gloceſters ſon, and to the Earl of Arundel his ſon, that loved him but a little, for he had put their fathers to death, vvho led him ſtraight to the Caſtle.</p>
+            <p>The Duke novv coming towards London, the Maior and the Companies in their Liveries, vvith great noyſe of Trumpets, met the Duke, doing more reverence to him then to the King, rejoycing that God had ſent them ſuch a Prince that had conquered the Realm vvithin one <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onths ſpace.</p>
+            <p>When the Duke came vvithin tvvo miles of the City, he cauſed the Hoſte to ſtay, and then ſaid to the Commons of the City, My Maſters, behold here your King, conſider vvhat you vvill do vvith him: they anſwered, They vvould he ſhould be led to Weſtminſter: Whereupon he vvas delivered to
+<pb n="7" facs="tcp:156857:4"/>them, and they led him to Weſtminſter, and from thence by water to the Tower of London.</p>
+            <p>The Duke entered into London by the chief Gate, and rode thorow Cheap to Saint Pauls, where he was after lodged in the Biſhops Pallace five or ſix dayes, and after at St Iohns without Smithfield, where he remained fif<g ref="char:EOLhyphen"/>teen dayes: from thence he came to Hertford, where he abode three weeks; and then came back to London to hold the Parliament that began the firſt Wedneſday of October in Weſtminſter-hall, which they had hung and trim<g ref="char:EOLhyphen"/>med ſumptuouſly, and had cauſed to be ſet up a Royall Chayr, in purpoſe to chooſe a new King; neer to which the Prelates were ſet, and on the other ſide ſate the Lords, and after the Commons in order.</p>
+            <p>The Archbiſhop of Canterbury made a Sermon, and took for his Theam, <hi>habuit Iacob benedictionem a patre ſuo;</hi> which Sermon being ended in Latine, a Do<g ref="char:EOLhyphen"/>ctor of the Law ſtood up and read an Inſtrument, in the which was contain<g ref="char:EOLhyphen"/>ed, That King Richard had by his own confeſſion, diſabled himſelf to be worthy to Raign, and that he would reſigne the Crown to ſuch a one as was ſufficient to rule: This Inſtrument being read, the Archbiſhop perſwaded them to perſwade to the election of a new King; and perceiving they were all contented, for there were not paſt four perſons of King Richards ſide (and they durſt ſay nothing) he asked each of them which they would have for their King.</p>
+            <p>Whether the Duke of York or not, and they anſwered no: He asked if they would have his eldeſt ſon the Duke of Aumrale, and they ſaid, No: He asked if they would have his youngeſt ſon, and they ſaid, No; and ſo of di<g ref="char:EOLhyphen"/>vers others: Then ſtaying a while, he asked if they would have the Duke of Lancaſter; and then they anſwered, They would none other: This demand being made, there they drew certain Inſtruments and Charters, and read them in preſence of all that were there. Then the Archbiſhops coming to the Duke, fell on their knees, declaring to him how he was choſen King, and willed him to take regard if he would conſent thereunto: Then the Duke, being on his knees, roſe and declared that he accepted the Realm, ſith it was ordained by God: Then the Archbiſhop read what the new King was bound unto, and with certain-Ceremonies, ſigned him with the Croſſe: then he kiſ<g ref="char:EOLhyphen"/>ſed the Archbiſhop: Then they took the Ring, to which the Kings be wed<g ref="char:EOLhyphen"/>ded to the Realm, and bare it to the Lord Percy that was Conſtable, who re<g ref="char:EOLhyphen"/>ceiving it, ſhewed it to all the Aſſembly, and then put it on the Kings finger, the King then kiſſing the Conſtable: And then the Archbiſhop led him to the Siege Royall, and the King made his prayers on his knees before it, and after ſpake unto them all, firſt to the Prelates, and then to the Lords, and all the other, and ſo ſet him down in the Seat; and thus he was inveſted, and King Richard put down: He ſate a good while and kept ſilence, and ſo did all the reſt, for they were in prayer for his proſperity in his Government, And when they had ended, where the Offices were voyd, the King created new.
+<pb n="8" facs="tcp:156857:5"/>After this the Archbiſhop ſpake certain things in Latine, praying for the Kings proſperity, and the Realms, and after ſpake in Engliſh upon this fol<g ref="char:EOLhyphen"/>lowing, <hi>Vir dominabuntur in populo, Reg.</hi> 9. &amp;c. And then exhorting all there preſent to pray the like, every man ſate down: Then the King aroſe, and made his eldeſt ſon Prince of Wales: Then the Lords were ſvvorn to be true to the Prince, as before they had done to his father: his ſecond ſon vvas there made Duke of Lancaſter.</p>
+            <p>Thus vvas King Richard depoſed vvhen he had raigned 22 yeers, 3 months, and odde dayes, in ſuch manner as ye have heard, vvhoſe Royalty had been ſuch, That vvhereſoever he lay, his Perſon vvas guarded by 200 Cheſhire-men: he had about him 13 Biſhops, beſides Barons, Knights, Eſquires, and others, more then needed, inſomuch that every day came to the Houſhold to meat 10000 people, as appeared by the Meſſes told out of the Kitchin to 300 Servitors, &amp;c.</p>
+            <p>He vvas buried firſt in the Church of the Friars Preachers at Langley, be<g ref="char:EOLhyphen"/>ſides St Albanes, and after by commandment of King Henry 5 removed to Weſtminſter, vvho after him Raigned: Henry Plantagenet, born at Bulling<g ref="char:EOLhyphen"/>brook, ſon to Iohn of Gaunt, the Duke of Lancaſter, vvas ordained King of England, and began his Raign in the yeer of our Lord God, 1399 and raign<g ref="char:EOLhyphen"/>ed many yeers vvith much peace and tranquillity, and baniſht all King Ri<g ref="char:EOLhyphen"/>chards favourites, ſo that he brought this Nation to ſo happy a Vnion, that the vvhole Realm enjoyed many graces of his favour in his Raign, of vvhich many good Acts are ſtill in force.</p>
+            <q xml:lang="lat">
+               <lg>
+                  <head>Verſes made then againſt the Biſhops and Clergy.</head>
+                  <l>PLangunt Anglorum gentes crimen Sodomorum.</l>
+                  <l>Paulus fert, horum ſunt Idola cauſe malorum.</l>
+                  <l>Surgunt ingrati, corrupto Semine nati</l>
+                  <l>Mentum Praelati, hoc defenſere parati,</l>
+                  <l>Qui Reges eſtis populis quicunque p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae eſtis,</l>
+                  <l>Qualiter his geſtis gladiis probibere poteſtis.</l>
+               </lg>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
